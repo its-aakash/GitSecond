@@ -1,7 +1,9 @@
 package bikes;
 
+import org.testng.annotations.Test;
+
 public class Duke {
-	public class Duke {
+	
 
 		@Test
 		public void  speed() {
